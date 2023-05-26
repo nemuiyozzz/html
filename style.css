@@ -1,0 +1,13 @@
+p{
+    color:aliceblue;
+}
+
+.box_css{
+    width:100px;
+
+    margin: 5em;
+
+    border: solid 3px #000000;
+
+    background-color: #ccc;
+}
